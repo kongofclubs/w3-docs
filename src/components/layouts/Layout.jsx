@@ -26,7 +26,7 @@ export const navigation = [
         links: [
           {
             title: 'AI-Powered Games',
-            href: '/docs/testing',
+            href: '/docs/ai-powered-games',
             links: [
               { title: 'High Orbit', href: '/docs/predictive-data-generation' }
             ]

@@ -1,5 +1,5 @@
 import { Callout } from '@/components/Callout'
-import { QuickLink, QuickLinks } from '@/components/QuickLinks'
+import { LinkCard, QuickLink, QuickLinks } from '@/components/QuickLinks'
 
 const tags = {
   callout: {
@@ -42,6 +42,16 @@ const tags = {
       href: { type: String },
     },
   },
+  'link-card': {
+    selfClosing: true,
+    render: LinkCard,
+    attributes: {
+      title: { type: String },
+      description: { type: String },
+      image: { type: String },
+      href: { type: String },
+    },
+  }
 }
 
 export default tags
