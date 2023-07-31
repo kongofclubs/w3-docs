@@ -31,7 +31,7 @@ export const navigation = [
               { title: 'High Orbit', href: '/docs/high-orbit' }
             ]
           },
-          { title: 'Simplified Accounts', href: '/docs/compile-time-caching' },
+          { title: 'Simplified Accounts', href: '/docs/simplified-accounts' },
           {
             title: 'NFT Traits 2.0',
             href: '/docs/predictive-data-generation',
