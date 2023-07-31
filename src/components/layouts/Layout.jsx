@@ -22,7 +22,7 @@ export const navigation = [
       { title: 'Roadmap', href: '/docs/roadmap' },
       {
         title: 'Features',
-        href: '/docs/installation',
+        href: '/docs/features',
         links: [
           {
             title: 'AI-Powered Games',
