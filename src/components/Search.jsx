@@ -5,7 +5,7 @@ import { createAutocomplete } from '@algolia/autocomplete-core'
 import { Dialog } from '@headlessui/react'
 import clsx from 'clsx'
 
-import { navigation } from '@/components/Layout'
+import { navigation } from '@/components/layouts/Layout'
 
 function SearchIcon(props) {
   return (

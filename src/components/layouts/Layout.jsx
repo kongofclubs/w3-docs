@@ -3,13 +3,15 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 import clsx from 'clsx'
 
-import { Hero } from '@/components/Hero'
+// import { Hero } from '@/components/Hero'
 import { Logo, Logomark } from '@/components/Logo'
-import { MobileNavigation } from '@/components/MobileNavigation'
-import { Navigation } from '@/components/Navigation'
+import { MobileNavigation } from '@/components/layouts/MobileNavigation'
+import { Navigation } from '@/components/layouts/Navigation'
 import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
-import { ThemeSelector } from '@/components/ThemeSelector'
+import { ThemeSelector } from '@/components/menus/ThemeSelector'
+import { SocialMenu } from '../menus/SocialMenu'
+import { TokenMenu } from '../menus/TokenMenu'
 
 export const navigation = [
   {
@@ -111,7 +113,15 @@ function Header({ navigation }) {
       <div className="-my-5 mr-6 sm:mr-8 md:mr-0">
         <Search />
       </div>
-      <div className="relative flex basis-0 justify-end gap-6 sm:gap-8 md:flex-grow">
+      <div className="relative flex basis-0 justify-end items-center gap-6 sm:gap-8 md:flex-grow">
+        <Link href="https://rewardz.network/" className="group" aria-label="GitHub">
+          <span className='text-slate-900 dark:text-white'>Home</span>
+        </Link>
+        <Link href="https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x562d8e607bed7fc183ca84c0362c853680b99638" className="group" aria-label="GitHub">
+          <span className='text-slate-900 dark:text-white'>Buy</span>
+        </Link>
+        <SocialMenu />
+        <TokenMenu />
         <ThemeSelector className="relative z-10" />
         <Link href="https://github.com" className="group" aria-label="GitHub">
           <GitHubIcon className="h-6 w-6 fill-slate-400 group-hover:fill-slate-500 dark:group-hover:fill-slate-300" />
@@ -195,7 +205,7 @@ export function Layout({
     <>
       <Header navigation={navigation} />
 
-      {isHomePage && <Hero />}
+      {/* {isHomePage && <Hero />} */}
 
       <div className="relative mx-auto flex w-full max-w-8xl flex-auto justify-center sm:px-2 lg:px-8 xl:px-12">
         <div className="hidden lg:relative lg:block lg:flex-none">
