@@ -42,7 +42,7 @@ export const navigation = [
           },
           {
             title: 'Free-to-Play',
-            href: '/docs/predictive-data-generation',
+            href: '/docs/free-to-play',
           },
         ]
       },
