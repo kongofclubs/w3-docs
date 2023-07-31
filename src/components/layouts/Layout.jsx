@@ -34,7 +34,7 @@ export const navigation = [
           { title: 'Simplified Accounts', href: '/docs/simplified-accounts' },
           {
             title: 'NFT Traits 2.0',
-            href: '/docs/predictive-data-generation',
+            href: '/docs/nft-traits-2',
           },
           {
             title: 'NFT Personas',
