@@ -38,7 +38,7 @@ export const navigation = [
           },
           {
             title: 'NFT Personas',
-            href: '/docs/predictive-data-generation',
+            href: '/docs/nft-personas',
           },
           {
             title: 'Free-to-Play',
