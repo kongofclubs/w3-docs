@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import clsx from 'clsx'
+import { EnvelopeIcon, QuestionMarkCircleIcon } from '@heroicons/react/20/solid'
 
 // import { Hero } from '@/components/Hero'
 import { Logo, Logomark } from '@/components/Logo'
@@ -15,57 +16,94 @@ import { TokenMenu } from '../menus/TokenMenu'
 
 export const navigation = [
   {
-    title: 'Introduction',
+    title: '💧 Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Abstract', href: '/' },
+      { title: 'Roadmap', href: '/docs/installation' },
+      {
+        title: 'Features',
+        href: '/docs/installation',
+        links: [
+          {
+            title: 'AI-Powered Games',
+            href: '/docs/testing',
+            links: [
+              { title: 'High Orbit', href: '/docs/predictive-data-generation' }
+            ]
+          },
+          { title: 'Simplified Accounts', href: '/docs/compile-time-caching' },
+          {
+            title: 'NFT Traits 2.0',
+            href: '/docs/predictive-data-generation',
+          },
+          {
+            title: 'NFT Personas',
+            href: '/docs/predictive-data-generation',
+          },
+          {
+            title: 'Free-to-Play',
+            href: '/docs/predictive-data-generation',
+          },
+        ]
+      },
     ],
   },
   {
-    title: 'Core concepts',
+    title: '💧 Platform',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
+      { title: 'Online Gaming', href: '/docs/understanding-caching' },
       {
-        title: 'Predicting user behavior',
+        title: 'Artificial Intelligence',
         href: '/docs/predicting-user-behavior',
       },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
+      { title: 'Blockchain', href: '/docs/basics-of-time-travel' },
       {
-        title: 'Introduction to string theory',
+        title: 'Incentives',
         href: '/docs/introduction-to-string-theory',
       },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Revenue', href: '/docs/the-butterfly-effect' },
+      { title: 'Economy', href: '/docs/the-butterfly-effect' },
     ],
   },
   {
-    title: 'Advanced guides',
+    title: '💧 Tokenomics',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
+      { title: '$RAYN Token', href: '/docs/writing-plugins' },
+      { title: 'Supply', href: '/docs/neuralink-integration' },
+      { title: 'Taxes', href: '/docs/temporal-paradoxes' },
+      { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf' },
+    ],
+  },
+  {
+    title: '💧 Technology',
+    links: [
+      { title: 'Base', href: '/docs/cacheadvance-predict' },
+      { title: 'Tech Stack', href: '/docs/cacheadvance-flush' },
+    ],
+  },
+  {
+    title: '💧 Community',
+    links: [
+      { title: 'DAO', href: '/docs/how-to-contribute' },
+      { title: 'Pledge', href: '/docs/architecture-guide' },
+      { title: 'Core Team', href: '/docs/design-principles' },
       {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
+        title: 'FAQ',
+        href: '/docs/cacheadvance-revert',
+        icon: QuestionMarkCircleIcon,
+        links: [
+          { title: 'How can I trust you?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is $RAYN?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is account abstraction?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is Base?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is decentralization?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is web3?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is ZK or ZKp?', href: '/docs/cacheadvance-regret' },
+          { title: 'Why skip presale?', href: '/docs/cacheadvance-regret' },
+          { title: 'Will you list on CEX?', href: '/docs/cacheadvance-regret' },
+        ]
       },
-    ],
-  },
-  {
-    title: 'API reference',
-    links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
-    ],
-  },
-  {
-    title: 'Contributing',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'Join Mailing List', href: '/docs/cacheadvance-regret', icon: EnvelopeIcon },
     ],
   },
 ]
