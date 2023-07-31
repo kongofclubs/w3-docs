@@ -28,7 +28,7 @@ export const navigation = [
             title: 'AI-Powered Games',
             href: '/docs/ai-powered-games',
             links: [
-              { title: 'High Orbit', href: '/docs/predictive-data-generation' }
+              { title: 'High Orbit', href: '/docs/high-orbit' }
             ]
           },
           { title: 'Simplified Accounts', href: '/docs/compile-time-caching' },
