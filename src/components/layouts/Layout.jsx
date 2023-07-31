@@ -19,7 +19,7 @@ export const navigation = [
     title: '💧 Introduction',
     links: [
       { title: 'Abstract', href: '/' },
-      { title: 'Roadmap', href: '/docs/installation' },
+      { title: 'Roadmap', href: '/docs/roadmap' },
       {
         title: 'Features',
         href: '/docs/installation',
