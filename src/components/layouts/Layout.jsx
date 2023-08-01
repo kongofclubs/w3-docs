@@ -94,7 +94,7 @@ export const navigation = [
         icon: QuestionMarkCircleIcon,
         links: [
           { title: 'How can I trust you?', href: '/docs/how-can-i-trust-you' },
-          { title: 'What is $RAYN?', href: '/docs/cacheadvance-regret' },
+          { title: 'What is $RAYN?', href: '/docs/what-is-rayn' },
           { title: 'What is account abstraction?', href: '/docs/cacheadvance-regret' },
           { title: 'What is Base?', href: '/docs/cacheadvance-regret' },
           { title: 'What is decentralization?', href: '/docs/cacheadvance-regret' },
