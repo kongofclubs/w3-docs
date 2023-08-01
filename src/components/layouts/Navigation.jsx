@@ -1,11 +1,7 @@
-import Link from 'next/link'
-import { useRouter } from 'next/router'
 import clsx from 'clsx'
 import NavigationItem from './NavigationItem'
 
   export function Navigation({ navigation, className }) {
-    let router = useRouter()
-
   return (
     <nav className={clsx('text-base lg:text-sm', className)}>
       <ul role="list" className="space-y-9">

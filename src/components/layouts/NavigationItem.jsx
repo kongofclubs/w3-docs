@@ -11,6 +11,7 @@ export default function NavigationItem({ section }) {
     <li key={section.href} className="relative">
       <Link
         href={section.href}
+        target={section.href.includes('https://') ? '_blank' : '_self'}
         className={clsx(
           'flex items-center w-full pl-3.5 before:pointer-events-none before:absolute before:-left-1 before:top-1/2 before:h-1.5 before:w-1.5 before:-translate-y-1/2 before:rounded-full',
           section.href === router.pathname
@@ -18,7 +19,7 @@ export default function NavigationItem({ section }) {
             : 'text-slate-500 before:hidden before:bg-slate-300 hover:text-slate-600 hover:before:block dark:text-slate-400 dark:before:bg-slate-700 dark:hover:text-slate-300'
         )}
       >
-        {section.icon && <><section.icon className='h-5 w-5 text-sky-500' />&nbsp; </>} {section.title}
+        {section.icon && <><section.icon className='h-5 w-5 text-sky-500' />&nbsp; </>} {section.title} {section.suffixIcon && <section.suffixIcon  className='h-5 w-5 ml-auto text-sky-500' />}
       </Link>
     </li>
   )

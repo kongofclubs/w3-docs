@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import clsx from 'clsx'
-import { EnvelopeIcon, QuestionMarkCircleIcon } from '@heroicons/react/20/solid'
+import { EnvelopeIcon, QuestionMarkCircleIcon, ArrowUpRightIcon } from '@heroicons/react/20/solid'
 
 // import { Hero } from '@/components/Hero'
 import { Logo, Logomark } from '@/components/Logo'
@@ -71,7 +71,7 @@ export const navigation = [
       { title: '$RAYN Token', href: '/docs/rayn-token' },
       { title: 'Supply', href: '/docs/supply' },
       { title: 'Taxes', href: '/docs/taxes' },
-      { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf' },
+      { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf', suffixIcon: ArrowUpRightIcon },
     ],
   },
   {
