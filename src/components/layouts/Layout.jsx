@@ -56,7 +56,7 @@ export const navigation = [
         title: 'Artificial Intelligence',
         href: '/docs/artificial-intelligence',
       },
-      { title: 'Blockchain', href: '/docs/basics-of-time-travel' },
+      { title: 'Blockchain', href: '/docs/blockchain' },
       {
         title: 'Incentives',
         href: '/docs/introduction-to-string-theory',
