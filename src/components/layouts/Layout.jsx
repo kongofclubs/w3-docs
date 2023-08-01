@@ -87,6 +87,7 @@ export const navigation = [
       { title: 'DAO', href: '/docs/dao' },
       { title: 'Pledge', href: '/docs/pledge' },
       { title: 'Core Team', href: '/docs/core-team' },
+      { title: 'Founder', href: '/docs/founder' },
       {
         title: 'FAQ',
         href: '/docs/cacheadvance-revert',
