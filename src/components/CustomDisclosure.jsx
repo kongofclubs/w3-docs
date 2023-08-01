@@ -1,7 +1,7 @@
 import { Disclosure } from '@headlessui/react'
 import { ChevronUpIcon } from '@heroicons/react/20/solid'
 
-export default function CustomDisclosure({ title, description }) {
+export default function CustomDisclosure({ title, description, children }) {
   return (
     <div className="w-full rounded-md border p-2 my-4">
       <Disclosure>
@@ -16,7 +16,7 @@ export default function CustomDisclosure({ title, description }) {
               <span className='font-bold'>{title}</span>
             </Disclosure.Button>
             <Disclosure.Panel className="pl-9 pr-4 pt-1 pb-2 text-sm text-gray-500">
-              {description}
+              {description ? description : children}
             </Disclosure.Panel>
           </>
         )}

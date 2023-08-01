@@ -69,7 +69,7 @@ export const navigation = [
     title: '💧 Tokenomics',
     links: [
       { title: '$RAYN Token', href: '/docs/rayn-token' },
-      { title: 'Supply', href: '/docs/neuralink-integration' },
+      { title: 'Supply', href: '/docs/supply' },
       { title: 'Taxes', href: '/docs/temporal-paradoxes' },
       { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf' },
     ],
