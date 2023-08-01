@@ -78,7 +78,7 @@ export const navigation = [
     title: '💧 Technology',
     links: [
       { title: 'Base', href: '/docs/base' },
-      { title: 'Tech Stack', href: '/docs/cacheadvance-flush' },
+      { title: 'Tech Stack', href: '/docs/tech-stack' },
     ],
   },
   {
