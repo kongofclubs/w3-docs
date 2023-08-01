@@ -59,7 +59,7 @@ export const navigation = [
       { title: 'Blockchain', href: '/docs/blockchain' },
       {
         title: 'Incentives',
-        href: '/docs/introduction-to-string-theory',
+        href: '/docs/incentives',
       },
       { title: 'Revenue', href: '/docs/the-butterfly-effect' },
       { title: 'Economy', href: '/docs/the-butterfly-effect' },
