@@ -61,7 +61,7 @@ export const navigation = [
         title: 'Incentives',
         href: '/docs/incentives',
       },
-      { title: 'Revenue', href: '/docs/the-butterfly-effect' },
+      { title: 'Revenue', href: '/docs/revenue' },
       { title: 'Economy', href: '/docs/the-butterfly-effect' },
     ],
   },
