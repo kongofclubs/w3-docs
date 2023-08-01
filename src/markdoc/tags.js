@@ -1,4 +1,5 @@
 import { Callout } from '@/components/Callout'
+import CustomDisclosure from '@/components/CustomDisclosure'
 import { LinkCard, QuickLink, QuickLinks } from '@/components/QuickLinks'
 
 const tags = {
@@ -51,6 +52,14 @@ const tags = {
       image: { type: String },
       href: { type: String },
     },
+  },
+  'custom-disclosure': {
+    selfClosing: true,
+    render: CustomDisclosure,
+    attributes: {
+      title: { type: String },
+      description: { type: String },
+    }
   }
 }
 

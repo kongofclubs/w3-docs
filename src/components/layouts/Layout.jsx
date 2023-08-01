@@ -51,7 +51,7 @@ export const navigation = [
   {
     title: '💧 Platform',
     links: [
-      { title: 'Online Gaming', href: '/docs/understanding-caching' },
+      { title: 'Online Gaming', href: '/docs/online-gaming' },
       {
         title: 'Artificial Intelligence',
         href: '/docs/predicting-user-behavior',

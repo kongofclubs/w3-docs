@@ -21,4 +21,4 @@ It facilitates an enthralling exploration of the unpredictable - prompting parti
 
 In the dynamic “minds” of DPL, we merge the decentralized digital world with the mystery of human instinct, effectively transcending the traditional borders of the lottery system.
 
-![Lottery](../images/lotter.jpeg)
+![Lottery](../images/lottery.jpeg)
