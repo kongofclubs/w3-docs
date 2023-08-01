@@ -1,3 +1,4 @@
+import { Box } from '@/components/Box'
 import { Callout } from '@/components/Callout'
 import CustomDisclosure from '@/components/CustomDisclosure'
 import { LinkCard, QuickLink, QuickLinks } from '@/components/QuickLinks'
@@ -60,6 +61,9 @@ const tags = {
       title: { type: String },
       description: { type: String },
     }
+  },
+  'box': {
+    render: Box
   }
 }
 

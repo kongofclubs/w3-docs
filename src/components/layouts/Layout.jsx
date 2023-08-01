@@ -70,7 +70,7 @@ export const navigation = [
     links: [
       { title: '$RAYN Token', href: '/docs/rayn-token' },
       { title: 'Supply', href: '/docs/supply' },
-      { title: 'Taxes', href: '/docs/temporal-paradoxes' },
+      { title: 'Taxes', href: '/docs/taxes' },
       { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf' },
     ],
   },
