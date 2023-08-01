@@ -90,7 +90,7 @@ export const navigation = [
       { title: 'Founder', href: '/docs/founder' },
       {
         title: 'FAQ',
-        href: '/docs/cacheadvance-revert',
+        href: '/docs/faq',
         icon: QuestionMarkCircleIcon,
         links: [
           { title: 'How can I trust you?', href: '/docs/cacheadvance-regret' },
