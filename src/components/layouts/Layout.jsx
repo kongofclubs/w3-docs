@@ -93,7 +93,7 @@ export const navigation = [
         href: '/docs/faq',
         icon: QuestionMarkCircleIcon,
         links: [
-          { title: 'How can I trust you?', href: '/docs/cacheadvance-regret' },
+          { title: 'How can I trust you?', href: '/docs/how-can-i-trust-you' },
           { title: 'What is $RAYN?', href: '/docs/cacheadvance-regret' },
           { title: 'What is account abstraction?', href: '/docs/cacheadvance-regret' },
           { title: 'What is Base?', href: '/docs/cacheadvance-regret' },
