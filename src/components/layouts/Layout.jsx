@@ -85,7 +85,7 @@ export const navigation = [
     title: '💧 Community',
     links: [
       { title: 'DAO', href: '/docs/dao' },
-      { title: 'Pledge', href: '/docs/architecture-guide' },
+      { title: 'Pledge', href: '/docs/pledge' },
       { title: 'Core Team', href: '/docs/design-principles' },
       {
         title: 'FAQ',
