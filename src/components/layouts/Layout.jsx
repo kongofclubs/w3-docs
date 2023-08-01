@@ -54,7 +54,7 @@ export const navigation = [
       { title: 'Online Gaming', href: '/docs/online-gaming' },
       {
         title: 'Artificial Intelligence',
-        href: '/docs/predicting-user-behavior',
+        href: '/docs/artificial-intelligence',
       },
       { title: 'Blockchain', href: '/docs/basics-of-time-travel' },
       {
