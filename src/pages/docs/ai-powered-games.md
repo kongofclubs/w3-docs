@@ -8,19 +8,17 @@ More information to be released soon... {% .lead %}
 ## Official Games
 {% quick-links %}
 
-{% link-card title="High Orbit" href="https://docs.rewardz.network/rewardz/introduction/features/ai-powered-games/high-orbit" description="Runtz" image="/images/adbanner2.jpeg" /%}
+{% link-card title="High Orbit" href="/docs/high-orbit" description="Runtz" image="/images/adbanner2.jpeg" /%}
 
-{% link-card title="Gem Hunter" href="#" description="Runtz" /%}
+{% link-card title="Gem Hunter" description="Runtz" /%}
 
 {% /quick-links %}
-
----
 
 ## Seasonal Games
 {% quick-links %}
 
-{% link-card title="Chadiators" href="#" description="Runtz" /%}
+{% link-card title="Chadiators" description="Runtz" /%}
 
-{% link-card title="Growbots" href="#" description="Rewardz®" /%}
+{% link-card title="Growbots" description="Rewardz®" /%}
 
 {% /quick-links %}
