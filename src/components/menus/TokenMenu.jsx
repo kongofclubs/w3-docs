@@ -38,7 +38,7 @@ export function TokenMenu() {
             <Popover.Button
               className={`
                 ${open ? '' : 'text-opacity-90'}
-                group inline-flex items-center rounded-mdbg-transparent text-base font-medium text-white hover:text-opacity-100 focus:outline-none`}
+                group inline-flex items-center rounded-mdbg-transparent text-base font-medium text-slate-900 dark:text-white hover:text-opacity-100 focus:outline-none`}
             >
               <span>Token</span>
               <ChevronDownIcon
