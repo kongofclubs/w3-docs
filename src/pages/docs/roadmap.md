@@ -9,8 +9,8 @@ Under Construction - Check Back Soon {% .lead %}
 
 ## April
 
-| OK            | Item          | Select      | Month       | Week
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| OK            | Item          | Select        | Month           | Week
+| ------------- | ------------- | ------------- | :-------------: | :-------------: |
 | ✅            | dEscrow Contract  | Completed | 4 | |
 | ✅            | Establish branding strategy  | Completed | 4 | |
 | ✅            | Design [IGO product](https://docs.rewardz.network/rewardz/introduction/features/ai-powered-games/high-orbit)  | Completed | 4 | |
@@ -19,8 +19,8 @@ Under Construction - Check Back Soon {% .lead %}
 
 ## May
 
-| OK            | Item          | Select      | Month       | Week
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| OK            | Item          | Select        | Month           | Week
+| ------------- | ------------- | ------------- | :-------------: | :-------------: |
 | ✅            | Create Runtz 10k Art  | Completed | 5 | |
 | ✅            | Create Runtz 10k Metadata  | Completed | 5 | |
 | ✅            | Create Runtz [Minting Contract](https://etherscan.io/address/0xC687488603BC90B344C7c8d64C5BCc151D7bDc95)  | Completed | 5 | |
@@ -30,8 +30,8 @@ Under Construction - Check Back Soon {% .lead %}
 
 ## June
 
-| OK            | Item          | Select        | Month         | Week
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| OK            | Item          | Select        | Month           | Week
+| ------------- | ------------- | ------------- | :-------------: | :-------------: |
 | ✅            | Rewardz® Wallet: Account Abstraction Contract (Base Goerli) | Completed | 6 | 1 |
 | ✅            | dApp Framework | Completed | 6 | 1 |
 | ✅            | [Runtz Mint Live](https://opensea.io/collection/runtzcommunity)  | Completed | 6 | 2 |
@@ -40,8 +40,8 @@ Under Construction - Check Back Soon {% .lead %}
 
 
 
-| OK            | Item          | Select        | Month         | Week
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| OK            | Item          | Select        | Month           | Week
+| ------------- | ------------- | ------------- | :-------------: | :-------------: |
 | 🔲            | Runtz Mist Pass Airdrops | In Progress |  | 2 |
 | 🔲            | Poolz: Staking Contract v2 | In Progress |  | 3 |
 | 🔲            | Gemz: Mini-earnings, Dailies  | On Hold |  | 2 |
