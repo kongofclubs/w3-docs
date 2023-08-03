@@ -213,6 +213,15 @@ function useTableOfContents(tableOfContents) {
   return currentSection
 }
 
+function deepFlatMap(array, result) {
+  array.forEach((el) => {
+    result.push(el);
+    if(el.links) {
+      deepFlatMap(el.links, result);
+    }
+  });
+}
+
 export function Layout({
   children,
   title,
@@ -221,7 +230,8 @@ export function Layout({
 }) {
   let router = useRouter()
   let isHomePage = router.pathname === '/'
-  let allLinks = navigation.flatMap((section) => section.links)
+  const allLinks = []
+  navigation.flatMap((section) => deepFlatMap(section.links, allLinks))
   let linkIndex = allLinks.findIndex((link) => link.href === router.pathname)
   let previousPage = linkIndex > -1 ? allLinks[linkIndex - 1] : null
   let nextPage = linkIndex > -1 ? allLinks[linkIndex + 1] : null
