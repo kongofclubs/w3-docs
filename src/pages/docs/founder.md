@@ -17,6 +17,8 @@ Leo is a highly experienced Software Engineer with a talent for impeccable desig
 
 Leo wishes to usher in the next generation of blockchain technologies using his strong knowledge of building large-scale systems and user experiences. His experience with online job markets allows him to scale quickly when needed. Leo's wide skill set also allows him to pick up any slack and properly assess quality on a variety of tasks.
 
+---
+
 ## Experience
 
 *__Professional designer and developer on record since 2009__*
@@ -40,7 +42,7 @@ Leo wishes to usher in the next generation of blockchain technologies using his 
 - Leo redesigned and developed the current Ohio Turnpike EZ-Pass application. This required programming communications with a physical transponder used in their ticketing and subscription system for vehicle tolling.
 - Leo helped design the current 5G architecture being rolled out on Walmarts for local wifi that included a drone map and local vehicle delivery schedule for automated deliveries 24/7.
 - Leo helped create an extensive user interface for the Epiphany Systems Cyber Security Application that is built for visualizing endpoints inside a compromised network or system. Built on D3 JavaScript library.
-- Leo redesigned, developed and deployed 150 WordPress websites in three months. Migrating them from Webflow in less than ninety (90) days while managing a budget of $800k. Project was completed under budget in half the quoted time due to targeted hiring and rapid scaling through online job markets (i.e. Upwork) then running concurrent sprints.
+- Leo redesigned, developed and deployed 150 WordPress websites in three months. Migrating them from Webflow in less than ninety (90) days while managing a budget of $800k. Project was completed under budget in half the quoted time due to **targeted hiring and rapid scaling** through online job markets (i.e. Upwork) then running concurrent sprints.
 
 ---
 
