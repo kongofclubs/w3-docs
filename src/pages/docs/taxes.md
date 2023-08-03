@@ -11,13 +11,11 @@ description: Taxes
 **5%** Sell Tax  {% .not-prose %}
 {% /callout %}
 
-{% quick-links %}
+{% quick-links width="150" %}
 
-{% box %} **2%** Marketing {% /box %}
-
-{% box %} **1%** Liquidity {% /box %}
-
-{% box %} **2%** Development {% /box %}
+{% box percent="2" label="Marketing" /%}
+{% box percent="1" label="Liquidity" /%}
+{% box percent="2" label="Development" /%}
 
 {% /quick-links %}
 

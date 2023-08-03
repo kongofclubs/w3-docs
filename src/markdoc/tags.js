@@ -33,6 +33,9 @@ const tags = {
   },
   'quick-links': {
     render: QuickLinks,
+    attributes: {
+      width: { type: Number }
+    }
   },
   'quick-link': {
     selfClosing: true,
@@ -64,7 +67,11 @@ const tags = {
     }
   },
   'box': {
-    render: Box
+    render: Box,
+    attributes: {
+      percent: { type: Number },
+      label: { type: String },
+    }
   }
 }
 
