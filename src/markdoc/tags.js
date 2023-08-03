@@ -42,6 +42,7 @@ const tags = {
       description: { type: String },
       icon: { type: String },
       href: { type: String },
+      newTab: { type: Boolean },
     },
   },
   'link-card': {
