@@ -17,7 +17,7 @@ description: Base
 *Base is built with the security and scalability you need to power your dapps. It leverages the underlying security of Ethereum and lets you confidently onramp into Base from Coinbase, Ethereum L1, and other interoperable chains.*
 
 ### Big Features, Small Fees 💸
-*Get the EVM environment at a fraction of the cost. Get early access to Ethereum features like Account Abstraction (ERC4337), simple developer APIs for gasless transactions, and smart contract wallets.*
+*Get the EVM environment at a fraction of the cost. Get early access to Ethereum features like __Account Abstraction (ERC4337)__, simple developer APIs for gasless transactions, and smart contract wallets.*
 
 ### Open Source, Powered by Optimism 🤗
 *Base is built on Optimism’s open-source OP Stack. We’re joining as the second Core Dev team working on the OP Stack to ensure it’s a public good available to everyone; and contributing a portion of sequencer revenue to funding public goods.*
