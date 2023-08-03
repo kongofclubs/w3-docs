@@ -4,7 +4,7 @@ description: Tech Stack
 ---
 
 
-{% quick-links %}
+{% quick-links width="210" %}
 
 {% link-card title="OpenAI" href="https://openai.com/" description="🤖" image="/images/openai.png" newTab="true" /%}
 

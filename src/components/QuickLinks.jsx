@@ -4,7 +4,7 @@ import clsx from 'clsx'
 
 import { Icon } from '@/components/Icon'
 
-export function QuickLinks({ children, width = 210 }) {
+export function QuickLinks({ children, width = 180 }) {
   return (
     <div className={`not-prose my-12 grid gap-6 grid-cols-[repeat(auto-fit,_minmax(${width}px,_1fr))]`}>
       {children}

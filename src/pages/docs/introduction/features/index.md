@@ -9,7 +9,7 @@ Where innovation meets imagination. {% .lead %}
 Dive into the uncharted territories of web3 entertainment with us; where we transform complex mechanics into intuitive, **enjoyable gaming experiences** - igniting the true potential of the play-to-earn scene, and elevating the fun factor that has been sorely missing in the digital realm...
 
 
-{% quick-links width="100" %}
+{% quick-links %}
 
 {% quick-link title="AI-Powered Games" href="/docs/introduction/features/ai-powered-games" description="Offer a variety of games and events that evolve with the crypto seasons" /%}
 
@@ -20,7 +20,7 @@ Dive into the uncharted territories of web3 entertainment with us; where we tran
 ---
 
 ## Bringing NFTs Back
-{% quick-links %}
+{% quick-links width="210" %}
 
 {% quick-link title="NFT Traits 2.0" href="/docs/introduction/features/nft-traits-2" description="Next evolution of NFTs incorporated into all platform games" /%}
 
