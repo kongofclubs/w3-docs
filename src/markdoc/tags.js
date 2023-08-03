@@ -56,6 +56,7 @@ const tags = {
       description: { type: String },
       image: { type: String },
       href: { type: String },
+      newTab: { type: Boolean }
     },
   },
   'custom-disclosure': {
