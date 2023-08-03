@@ -9,4 +9,4 @@ Traits 2.0 represents a unique system that leverages the power of Artificial Int
 
 This innovative solution allows these distinct traits to interact in a dynamic environment fostered by integrated gaming experiences.
 
-![Traits](../images/traits.jpeg)
+![Traits](/images/traits.jpeg)

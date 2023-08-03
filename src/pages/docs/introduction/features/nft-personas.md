@@ -9,7 +9,7 @@ Developers can easily pull NFTs into their games and interact with their history
 
 Achievements will be tracked in order to build “experience” for NFTs giving an additional metric for increasing value.
 
-![Personas](../images/personas.jpeg)
+![Personas](/images/personas.jpeg)
 
 ---
 
@@ -21,4 +21,4 @@ It facilitates an enthralling exploration of the unpredictable - prompting parti
 
 In the dynamic “minds” of DPL, we merge the decentralized digital world with the mystery of human instinct, effectively transcending the traditional borders of the lottery system.
 
-![Lottery](../images/lottery.jpeg)
+![Lottery](/images/lottery.jpeg)

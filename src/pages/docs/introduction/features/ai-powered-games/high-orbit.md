@@ -7,7 +7,7 @@ Runtz {% .lead %}
 
 Runtz: High Orbit is a tactical artillery game where small groups of PFP-outfitted characters battle each other across a variety of destructible maps with the goal of being the last group standing. Use weapons or interact with items on the map for buffs. This game will be play-to-earn with escrow wagers, built around the idea of promoting unity and trust between brands that we can use as a springboard for RAYN so we have an initial user base for the platform's P2E experiences.
 
-![Runtz](../images/adbanner2.jpeg)
+![Runtz](/images/adbanner2.jpeg)
 
 ## Crypto Gateway
 

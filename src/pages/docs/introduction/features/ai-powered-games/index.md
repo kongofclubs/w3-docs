@@ -8,7 +8,7 @@ More information to be released soon... {% .lead %}
 ## Official Games
 {% quick-links %}
 
-{% link-card title="High Orbit" href="/docs/high-orbit" description="Runtz" image="/images/adbanner2.jpeg" /%}
+{% link-card title="High Orbit" href="/docs/introduction/features/ai-powered-games/high-orbit" description="Runtz" image="/images/adbanner2.jpeg" /%}
 
 {% link-card title="Gem Hunter" description="Runtz" /%}
 

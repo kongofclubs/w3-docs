@@ -19,30 +19,30 @@ export const navigation = [
     title: '💧 Introduction',
     links: [
       { title: 'Abstract', href: '/' },
-      { title: 'Roadmap', href: '/docs/roadmap' },
+      { title: 'Roadmap', href: '/docs/introduction/roadmap' },
       {
         title: 'Features',
-        href: '/docs/features',
+        href: '/docs/introduction/features',
         links: [
           {
             title: 'AI-Powered Games',
-            href: '/docs/ai-powered-games',
+            href: '/docs/introduction/features/ai-powered-games',
             links: [
-              { title: 'High Orbit', href: '/docs/high-orbit' }
+              { title: 'High Orbit', href: '/docs/introduction/features/ai-powered-games/high-orbit' }
             ]
           },
-          { title: 'Simplified Accounts', href: '/docs/simplified-accounts' },
+          { title: 'Simplified Accounts', href: '/docs/introduction/features/simplified-accounts' },
           {
             title: 'NFT Traits 2.0',
-            href: '/docs/nft-traits-2',
+            href: '/docs/introduction/features/nft-traits-2',
           },
           {
             title: 'NFT Personas',
-            href: '/docs/nft-personas',
+            href: '/docs/introduction/features/nft-personas',
           },
           {
             title: 'Free-to-Play',
-            href: '/docs/free-to-play',
+            href: '/docs/introduction/features/free-to-play',
           },
         ]
       },
@@ -51,57 +51,57 @@ export const navigation = [
   {
     title: '💧 Platform',
     links: [
-      { title: 'Online Gaming', href: '/docs/online-gaming' },
+      { title: 'Online Gaming', href: '/docs/platform/online-gaming' },
       {
         title: 'Artificial Intelligence',
-        href: '/docs/artificial-intelligence',
+        href: '/docs/platform/artificial-intelligence',
       },
-      { title: 'Blockchain', href: '/docs/blockchain' },
+      { title: 'Blockchain', href: '/docs/platform/blockchain' },
       {
         title: 'Incentives',
-        href: '/docs/incentives',
+        href: '/docs/platform/incentives',
       },
-      { title: 'Revenue', href: '/docs/revenue' },
-      { title: 'Economy', href: '/docs/economy' },
+      { title: 'Revenue', href: '/docs/platform/revenue' },
+      { title: 'Economy', href: '/docs/platform/economy' },
     ],
   },
   {
     title: '💧 Tokenomics',
     links: [
-      { title: '$RAYN Token', href: '/docs/rayn-token' },
-      { title: 'Supply', href: '/docs/supply' },
-      { title: 'Taxes', href: '/docs/taxes' },
+      { title: '$RAYN Token', href: '/docs/tokenomics/rayn-token' },
+      { title: 'Supply', href: '/docs/tokenomics/supply' },
+      { title: 'Taxes', href: '/docs/tokenomics/taxes' },
       { title: 'Contract Audit', href: 'https://github.com/Defimoonorg/Audit-Report/blob/main/Rewardz.pdf', suffixIcon: ArrowUpRightIcon },
     ],
   },
   {
     title: '💧 Technology',
     links: [
-      { title: 'Base', href: '/docs/base' },
-      { title: 'Tech Stack', href: '/docs/tech-stack' },
+      { title: 'Base', href: '/docs/technology/base' },
+      { title: 'Tech Stack', href: '/docs/technology/tech-stack' },
     ],
   },
   {
     title: '💧 Community',
     links: [
-      { title: 'DAO', href: '/docs/dao' },
-      { title: 'Pledge', href: '/docs/pledge' },
-      { title: 'Core Team', href: '/docs/core-team' },
-      { title: 'Founder', href: '/docs/founder' },
+      { title: 'DAO', href: '/docs/community/dao' },
+      { title: 'Pledge', href: '/docs/community/pledge' },
+      { title: 'Core Team', href: '/docs/community/core-team' },
+      { title: 'Founder', href: '/docs/community/founder' },
       {
         title: 'FAQ',
         href: '/docs/faq',
         icon: QuestionMarkCircleIcon,
         links: [
-          { title: 'How can I trust you?', href: '/docs/how-can-i-trust-you' },
-          { title: 'What is $RAYN?', href: '/docs/what-is-rayn' },
-          { title: 'What is account abstraction?', href: '/docs/what-is-account-abstraction' },
-          { title: 'What is Base?', href: '/docs/what-is-base' },
-          { title: 'What is decentralization?', href: '/docs/what-is-decentralization' },
-          { title: 'What is web3?', href: '/docs/what-is-web3' },
-          { title: 'What is ZK or ZKp?', href: '/docs/what-is-zk-or-zkp' },
-          { title: 'Why skip presale?', href: '/docs/why-skip-presale' },
-          { title: 'Will you list on CEX?', href: '/docs/will-you-list-on-cex' },
+          { title: 'How can I trust you?', href: '/docs/faq/how-can-i-trust-you' },
+          { title: 'What is $RAYN?', href: '/docs/faq/what-is-rayn' },
+          { title: 'What is account abstraction?', href: '/docs/faq/what-is-account-abstraction' },
+          { title: 'What is Base?', href: '/docs/faq/what-is-base' },
+          { title: 'What is decentralization?', href: '/docs/faq/what-is-decentralization' },
+          { title: 'What is web3?', href: '/docs/faq/what-is-web3' },
+          { title: 'What is ZK or ZKp?', href: '/docs/faq/what-is-zk-or-zkp' },
+          { title: 'Why skip presale?', href: '/docs/faq/why-skip-presale' },
+          { title: 'Will you list on CEX?', href: '/docs/faq/will-you-list-on-cex' },
         ]
       },
       { title: 'Join Mailing List', href: '/docs/cacheadvance-regret', icon: EnvelopeIcon },

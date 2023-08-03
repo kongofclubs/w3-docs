@@ -13,7 +13,7 @@ Under Construction - Check Back Soon {% .lead %}
 | ------------- | ------------- | ------------- | :-------------: | :-------------: |
 | ✅            | dEscrow Contract  | Completed | 4 | |
 | ✅            | Establish branding strategy  | Completed | 4 | |
-| ✅            | Design [IGO product](https://docs.rewardz.network/rewardz/introduction/features/ai-powered-games/high-orbit)  | Completed | 4 | |
+| ✅            | Design [IGO product](/docs/features/ai-powered-games/high-orbit)  | Completed | 4 | |
 | ✅            | $RAYN [Token Contract](https://etherscan.io/token/0x562d8e607bed7fc183ca84c0362c853680b99638) | Completed | 4 | |
 | ✅            | Establish Comprehensive [Token Vesting Schedule](https://www.team.finance/view-coin/0x562D8e607bed7Fc183Ca84C0362c853680b99638?name=Rewardz%20Automated%20Yield%20Network&symbol=RAYN&chainid=0x1) | Completed | 4 | |
 

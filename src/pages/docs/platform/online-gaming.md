@@ -19,7 +19,7 @@ Naturally, this directs our attention to the gaming sector. But those who have s
 
 The most fun technology we have used in years is without a doubt AI software. We have had so many great ideas for games we thought instead of trying to make one large production, we think it would cater much better to the web3 crowd by offering a wide selection of play-to-earn mini-games and gamification where you get an arcade-like feel.
 
-**[Artificial Intelligence](/docs/artificial-intelligence)**
+**[Artificial Intelligence](/docs/platform/artificial-intelligence)**
 
 ---
 
@@ -33,7 +33,7 @@ Our platform can offer a wider variety of AI-powered games, including innovative
 
 There are some huge innovations coming in the device sector and our platform is the perfect landscape to take advantage of this technology.
 
-![Online Gaming](../images/online_gaming.jpeg)
+![Online Gaming](/images/online_gaming.jpeg)
 
 ---
 

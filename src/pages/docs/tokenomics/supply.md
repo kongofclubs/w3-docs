@@ -64,7 +64,7 @@ _**IMPORTANT**: Can be cancelled at any time due to setting as 'employee' in the
 
 ### Token Vesting
 
-![Token Vesting](../images/token_vesting.jpeg)
+![Token Vesting](/images/token_vesting.jpeg)
 
 ### Daily Release for Staking Rewards
 

@@ -19,7 +19,7 @@ To the $RAYN team, nothing is impossible. They work tirelessly not just for them
 
 {% quick-links %}
 
-{% quick-link title="Leo Black" href="/docs/founder-ceo" description="CEO, Founder, Architect\\nDOXXED" /%}
+{% quick-link title="Leo Black" href="/docs/community/founder" description="CEO, Founder, Architect\\nDOXXED" /%}
 
 {% quick-link title="R3DANG3L" href="https://www.linkedin.com/in/davide-g-28046037/" description="Smart Contract Developer\\nDOXXED" /%}
 

@@ -20,7 +20,7 @@ Rewardz® Wallets act in every way like a normal personal wallet except for maki
 Only your personal wallet can unlock access to the smart wallet. If you lose access to your personal wallet, we will be unable to resolve that even if ordered by a court.
 {% /callout %}
 
-![ERC4337](../images/erc4337.jpeg)
+![ERC4337](/images/erc4337.jpeg)
 
 ## Guest Wallet
 
