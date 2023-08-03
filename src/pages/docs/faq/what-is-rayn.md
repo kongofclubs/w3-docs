@@ -11,4 +11,4 @@ $RAYN is the universal token accepted throughout the RAYN platform
 
 _$RAYN will be used for all market purchases and escrow services on the RAYN Platform_
 
-[$RAYN Token](/docs/rayn-token)
+[$RAYN Token](/docs/tokenomics/rayn-token)
