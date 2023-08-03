@@ -19,7 +19,7 @@ Naturally, this directs our attention to the gaming sector. But those who have s
 
 The most fun technology we have used in years is without a doubt AI software. We have had so many great ideas for games we thought instead of trying to make one large production, we think it would cater much better to the web3 crowd by offering a wide selection of play-to-earn mini-games and gamification where you get an arcade-like feel.
 
-**[Artificial Intelligence](https://docs.rewardz.network/rewardz/platform/artificial-intelligence)**
+**[Artificial Intelligence](/docs/artificial-intelligence)**
 
 ---
 
