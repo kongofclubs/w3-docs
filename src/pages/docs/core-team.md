@@ -19,29 +19,15 @@ To the $RAYN team, nothing is impossible. They work tirelessly not just for them
 
 {% quick-links %}
 
-{% quick-link title="Leo Black" href="https://docs.rewardz.network/whitepaper/about/meet-the-team/founder-ceo" %}
-CEO, Founder, Architect
-DOXXED
-{% /quick-link %}
+{% quick-link title="Leo Black" href="/docs/founder-ceo" description="CEO, Founder, Architect\\nDOXXED" /%}
 
-{% quick-link title="R3DANG3L" href="https://www.linkedin.com/in/davide-g-28046037/" %}
-Smart Contract Developer
-DOXXED
-{% /quick-link %}
+{% quick-link title="R3DANG3L" href="https://www.linkedin.com/in/davide-g-28046037/" description="Smart Contract Developer\\nDOXXED" /%}
 
-{% quick-link title="MissWeb3" href="https://twitter.com/web3senorita" %}
-Social Media Manager
-Campaign Director
-{% /quick-link %}
+{% quick-link title="MissWeb3" href="https://twitter.com/web3senorita" description="Social Media Manager\\nCampaign Director" /%}
 
-{% quick-link title="Phusion" href="#" %}
-Operations
-DOXXED
-{% /quick-link %}
+{% quick-link title="Phusion" description="Operations\\nDOXXED" /%}
 
-{% quick-link title="Yoojo" href="#" %}
-Community Manager
-{% /quick-link %}
+{% quick-link title="Yoojo" description="Community Manager" /%}
 
 {% /quick-links %}
 
@@ -49,17 +35,11 @@ Community Manager
 
 {% quick-links %}
 
-{% quick-link title="Hammer NFT" href="#" %}
-Mod
-{% /quick-link %}
+{% quick-link title="Hammer NFT" description="Mod" /%}
 
-{% quick-link title="Milad" href="#" %}
-Mod
-{% /quick-link %}
+{% quick-link title="Milad" description="Mod" /%}
 
-{% quick-link title="PapaETH" href="#" %}
-Mod
-{% /quick-link %}
+{% quick-link title="PapaETH" description="Mod" /%}
 
 {% /quick-links %}
 

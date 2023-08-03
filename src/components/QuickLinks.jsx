@@ -12,7 +12,7 @@ export function QuickLinks({ children, width = 210 }) {
   )
 }
 
-export function QuickLink({ title, description, href, icon, children, newTab }) {
+export function QuickLink({ title, description, href, icon, newTab }) {
   let linkEl = <>
     <span className="absolute -inset-px rounded-xl" />
     {title}
@@ -33,7 +33,7 @@ export function QuickLink({ title, description, href, icon, children, newTab }) 
           {linkEl}
         </h2>
         <p className="mt-1 text-sm text-slate-700 dark:text-slate-400">
-          {description ? description : children}
+          {description?.split("\\n").map((item) => <>{item}<br /></>)}
         </p>
       </div>
     </div>
