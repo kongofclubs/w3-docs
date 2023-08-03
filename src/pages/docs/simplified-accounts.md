@@ -14,7 +14,7 @@ Account Factory ERC4337 {% .lead %}
 
 Your external wallet (Metamask, etc.) is the key to your Rewardz® Wallet. You can freely and easily swap between wallets while on the site.
 
-Rewardz® Wallets act in every way like a normal personal wallet except for making transactions within our ecosystem *seamless* and *gasless*.
+Rewardz® Wallets act in every way like a normal personal wallet except for making transactions within our ecosystem **seamless** and **gasless**.
 
 {% callout type="warning" %}
 Only your personal wallet can unlock access to the smart wallet. If you lose access to your personal wallet, we will be unable to resolve that even if ordered by a court.
