@@ -1,6 +1,5 @@
 ---
 title: Abstract
-pageTitle: Abstract
 description: Abstract
 ---
 
