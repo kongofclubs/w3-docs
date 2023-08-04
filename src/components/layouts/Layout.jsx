@@ -104,7 +104,7 @@ export const navigation = [
           { title: 'Will you list on CEX?', href: '/docs/faq/will-you-list-on-cex' },
         ]
       },
-      { title: 'Join Mailing List', href: '/docs/cacheadvance-regret', icon: EnvelopeIcon },
+      { title: 'Join Mailing List', href: '/docs/join-mailing-list', icon: EnvelopeIcon },
     ],
   },
 ]
@@ -229,7 +229,6 @@ export function Layout({
   isMarkdoc = false,
 }) {
   let router = useRouter()
-  let isHomePage = router.pathname === '/'
   const allLinks = []
   navigation.flatMap((section) => deepFlatMap(section.links, allLinks))
   let linkIndex = allLinks.findIndex((link) => link.href === router.pathname)
